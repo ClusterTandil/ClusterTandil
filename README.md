@@ -1,6 +1,6 @@
 # Cluster Tecnológico Tandil
 
-[![Cluster Tecnológico Tandil]([https://www.clustertecnologicotandil.org.ar/nota-que-es--63754](https://www.clustertecnologicotandil.org.ar/contenido/noticias/original/2024/07/19/1721414128.webp))](https://www.clustertecnologicotandil.org.ar)
+[![Cluster Tecnológico Tandil](https://www.clustertecnologicotandil.org.ar/contenido/noticias/original/2024/07/19/1721414128.webp)](https://www.clustertecnologicotandil.org.ar)
 
 Repositorio oficial (no oficial) con información y recursos relacionados al **Cluster Tecnológico Tandil**, una iniciativa que agrupa empresas, instituciones y profesionales del sector tecnológico en Tandil, Argentina.
 
