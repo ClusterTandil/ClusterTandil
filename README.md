@@ -1,8 +1,10 @@
 # Cluster Tecnológico Tandil
 
-[![Cluster Tecnológico Tandil](https://github.com/user-attachments/assets/d8a8f336-954d-4246-987c-1ae85e829c97)](https://www.clustertecnologicotandil.org.ar)
+<a href="https://www.clustertecnologicotandil.org.ar">
+  <img src="https://github.com/user-attachments/assets/d8a8f336-954d-4246-987c-1ae85e829c97" width="200" alt="Cluster Tecnológico Tandil">
+</a>
 
-Repositorio oficial (no oficial) con información y recursos relacionados al **Cluster Tecnológico Tandil**, una iniciativa que agrupa empresas, instituciones y profesionales del sector tecnológico en Tandil, Argentina.
+Repositorio oficial con información y recursos relacionados al **Cluster Tecnológico Tandil**, una iniciativa que agrupa empresas, instituciones y profesionales del sector tecnológico en Tandil, Argentina.
 
 ## 📌 Acerca del Cluster Tecnológico Tandil
 
