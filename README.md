@@ -1,16 +1,15 @@
-## Hi there 👋
+# Cluster Tecnológico Tandil
 
-<!--
-**ClusterTandil/ClusterTandil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Cluster Tecnológico Tandil](https://www.clustertecnologicotandil.org.ar/nota-que-es--63754)](https://www.clustertecnologicotandil.org.ar)
 
-Here are some ideas to get you started:
+Repositorio oficial (no oficial) con información y recursos relacionados al **Cluster Tecnológico Tandil**, una iniciativa que agrupa empresas, instituciones y profesionales del sector tecnológico en Tandil, Argentina.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Acerca del Cluster Tecnológico Tandil
+
+El **Cluster Tecnológico Tandil** es una red colaborativa que busca:
+- Promover el desarrollo tecnológico regional.
+- Fomentar la vinculación entre empresas, universidades y el Estado.
+- Generar oportunidades de negocio y empleo en el sector TIC.
+- Posicionar a Tandil como polo tecnológico a nivel nacional e internacional.
+
+🔗 **Sitio oficial**: [https://www.clustertecnologicotandil.org.ar](https://www.clustertecnologicotandil.org.ar)
